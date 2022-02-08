@@ -1,1 +1,6 @@
+ gcc -g p3original.c
+ ./a.out
+enter n value
+23
+NOT COMPOSITE 
 

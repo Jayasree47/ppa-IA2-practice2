@@ -1,1 +1,7 @@
-
+ gcc -g p2original.c
+ ./a.out
+enter the value:
+12
+enter the value:13
+enter the value:16
+SCALENE 
